@@ -1,0 +1,29 @@
+_repo: Robert-Ier-et-Raoul-de-Bourgogne-rois-de-France--923-936-_11132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lauer, Philippe
+    alias: Lauer, Ph. (Philippe)
+    birthdate: 1874
+    deathdate: 1953
+    gutenberg_agent_id: '3856'
+    url: http://www.gutenberg.org/2009/agents/3856
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11132'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Raoul, 923-936'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Robert I, 922-923'
+- !lcsh 'Robert I, King of France, d. 923'
+- !lcsh 'Raoul, King of France, d. 936'
+- GITenberg
+title: Robert Ier et Raoul de Bourgogne, rois de France (923-936)
+url: http://www.gutenberg.org/ebooks/11132
